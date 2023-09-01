@@ -1,5 +1,5 @@
 #  Laboratorio 1: Criptografía y Seguridad en Redes
-Nicolás Meneses Sepúlveda - S1
+Nicolás Meneses Sepúlveda - S1 <br />
 Para probar los códigos se deben ejecutar los siguientes comandos:
 ##  Actividad 1
 
